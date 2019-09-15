@@ -4,5 +4,8 @@
         "exclude": [
             "./node_modules/**/*"
         ]
+    },
+    "rules": {
+        "no-use-before-declare": false
     }
 }
